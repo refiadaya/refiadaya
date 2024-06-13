@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @refiadaya
-- 👀 I’m a 1st grade computer engineering student in IZTECH
+- 👀 I’m a 2nd semester Technical University of Munich Bachelor Information Engineering student.
 - 🌱 I’m currently learning Android Development with Java
 
 <!---
