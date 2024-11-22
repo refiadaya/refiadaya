@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @refiadaya
-- 👀 I’m a 2nd semester B.Sc. Information Engineering student at Technical University of Munich.
+- 👀 I’m a 3rd semester B.Sc. Information Engineering student at Technical University of Munich.
 - 🌱 I’m currently learning Android Development with Java.
 
 <!---
